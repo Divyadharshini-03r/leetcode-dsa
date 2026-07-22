@@ -3,7 +3,7 @@
 <div align="center">
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode)
-![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-100+-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 ![GitHub](https://img.shields.io/github/stars/Divyadharshini-03r/leetcode-dsa?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
