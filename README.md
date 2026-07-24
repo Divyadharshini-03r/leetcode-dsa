@@ -68,27 +68,6 @@ Solutions are written with readability and efficiency in mind.
 
 ---
 
-# 🎯 Interview Preparation
-
-These solutions are useful for preparing for:
-
-- Google
-- Microsoft
-- Amazon
-- Adobe
-- Oracle
-- Atlassian
-- Walmart
-- Zoho
-- TCS Digital
-- Infosys
-- Cognizant
-- Capgemini
-- Accenture
-- Product-Based Companies
-
----
-
 # 📈 Learning Goals
 
 - Master Data Structures
