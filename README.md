@@ -102,7 +102,7 @@ These solutions are useful for preparing for:
 
 # 🔥 Sample Problems
 
-| # | Problem | Difficulty |
+| problem number | Problem | Difficulty |
 |---|---------|------------|
 | 1 | Two Sum | Easy |
 | 11 | Container With Most Water | Medium |
