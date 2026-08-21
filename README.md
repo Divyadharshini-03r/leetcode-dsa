@@ -110,7 +110,7 @@ Solutions are written with readability and efficiency in mind.
 
 <div align="center">
 
-## 💡 "Consistency beats intensity. Solve one problem every day."
+## 💡 "Consistency beats intensity; Solve one problem every day."
 
 ### Happy Coding! 🚀
 
