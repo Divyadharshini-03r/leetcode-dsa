@@ -114,7 +114,7 @@ Solutions are written with readability and efficiency in mind.
 
 ## 💡 "Consistency beats intensity; Solve one problem every day!"
 
-### Happy Coding! 🚀
+### Happy Coding 🚀
 
 
 </div>
