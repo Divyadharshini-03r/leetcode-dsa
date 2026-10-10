@@ -98,7 +98,9 @@ Solutions are written with readability and efficiency in mind.
 - GeeksforGeeks
 - NeetCode
 - HackerRank
-
+- HackerEarth
+- CodeChef
+  
 ---
 
 
